@@ -8,7 +8,7 @@ Just another CS Undergrad.
 
 ### More Information    
 
-![_config.yml]({{ site.baseurl }}/images/1.png)     
+![_config.yml]({{ site.baseurl }}/images/2.jpg)     
 
 ### Contact me
 
